@@ -5,9 +5,12 @@ A simple command line based  python program to demonstrate a **Class Room Manage
 
 Usage
 --------------
-git clone 
-cd Class_Room_Management_System
-python3 class_room_management_system.py
+
+>git clone https://github.com/charany1/Class-Room-Management-System.git   
+
+>cd Class_Room_Management_System   
+
+>python3 class_room_management_system.py   
 
 
 Features:
