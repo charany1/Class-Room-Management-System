@@ -10,7 +10,7 @@ Usage
 
 >cd Class_Room_Management_System   
 
->python3 class_room_management_system.py   
+>python3 main.py   
 
 
 Features:
@@ -23,15 +23,5 @@ Features:
 * *Create  |View   |Delete* Subject  
  
 * *View    |Assign |Deassign* Subject-Teacher Associationship  
-
-* Creates file for storing information when used for *first time*.   
-
-* Automatically loads information from *json* files on startup   
-
-* Saves current session's information in *json* files on exit.  
-
-Issues:
--------------
-
-* Currently there is no *consistency*(*integrity constraint*) *check* imposed  subject_teacher_pairs.json,subjects.json and teacher.json i.e. these all are currently independent of each other.
+*  Load | Dump from/to file
 
