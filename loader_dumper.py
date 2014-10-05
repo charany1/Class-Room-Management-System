@@ -4,7 +4,7 @@ import json ,os,students,teachers,subjects,association
 
 def loader():
 	filename=input("Enter name of file :")
-	if(os.path.isfile(filename) and filename.split('.')[-1]=='json'):
+	if(os.path.isfile(filename)):
 		print("Loading...")
 		fp=open(filename,"r")
 		all_data=json.load(fp)
