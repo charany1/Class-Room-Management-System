@@ -25,3 +25,10 @@ Features:
 * *View    |Assign |Deassign* Subject-Teacher Associationship  
 *  Load | Dump from/to file
 
+To Do:
+--------------------------------
+1.Improve documentation.  
+2.Provide functionality to store data in a sqlite database management system like MySql.  
+3.Create a form base Graphical User Interface to input queries and to present the results.  
+
+
